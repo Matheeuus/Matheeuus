@@ -18,10 +18,31 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=Arduino&logoColor=00979D&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=C%2B%2B&logoColor=00599C&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=239120)
+
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MONGO DB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
+![JSON](https://img.shields.io/badge/json-0D1117?style=for-the-badge&logo=json&logoColor=5E5C5C&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26&labelColor=0D1117)&nbsp;
+![Ruby](https://img.shields.io/badge/Ruby-0D1117?style=for-the-badge&logo=ruby&logoColor=E0115F)
+![Lua](https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=00008b)
+
+### Other skills:
+![BootStrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=993399)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=cee3bc)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)
+![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![MICROSOFT_SQL SERVER](https://img.shields.io/badge/sql_server-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)
+
+### Hospedagem:
+![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
 
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matheeuus}/count.svg" /></p> 

@@ -43,7 +43,6 @@
 ### Hospedagem:
 ![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
-
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matheeuus}/count.svg" /></p> 
 <br></div>

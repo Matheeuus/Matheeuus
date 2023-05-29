@@ -27,6 +27,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-0D1117?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00)
 ![Adobe C](https://img.shields.io/badge/Adobe%20Creative%20Cloud-0D1117?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=DA1F26)
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Behance](https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=-0054F7)
 
 ### Other skills:
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
